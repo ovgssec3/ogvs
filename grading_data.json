@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "4097d7f4-58b3-422f-abec-6698b12d6520",
+      "name": "Kurt Joseff Parba",
+      "schoolId": "2512270",
+      "year": "1st Year",
+      "course": "BS Information Technology",
+      "section": "BSIT 1 -Sec3",
+      "code": "PARBAKURT-2512270",
+      "registeredAt": "2026-03-11T14:06:12.6218439Z"
+    }
+  ],
+  "studentGrades": [
+    {
+      "studentId": "4097d7f4-58b3-422f-abec-6698b12d6520",
+      "academicYear": "2026-2027 Semi-Finals",
+      "grades": [
+        {
+          "subjectCode": "ITCP12",
+          "subjectName": "Computer Programming",
+          "units": "3",
+          "period": "Semi-Finals",
+          "grade": "1.5",
+          "remarks": ""
+        },
+        {
+          "subjectCode": "ITQM12",
+          "subjectName": "Quantitative",
+          "units": "3",
+          "period": "Semi-Finals",
+          "grade": "1.1",
+          "remarks": ""
+        }
+      ],
+      "published": true,
+      "updatedAt": "2026-03-11T14:23:13.4107081Z"
+    }
+  ]
+}
