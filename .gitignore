@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+.vs/
+grading_data.json
+appsettings.Development.json
+*.http
